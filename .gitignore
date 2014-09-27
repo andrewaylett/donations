@@ -1,0 +1,7 @@
+# IDEA project files
+*.iml
+.idea
+
+# Editor backup files
+*~
+.*.swp
